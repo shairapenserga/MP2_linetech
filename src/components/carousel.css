@@ -1,0 +1,42 @@
+/* CarouselStyles.module.css */
+ * {
+  font-family: 'Montserrat', sans-serif;
+ }
+ .carouselWrapper
+  {
+   width: 500px;
+    margin: 50px auto; 
+    height: 100%; 
+    margin-bottom: 20px;
+    
+  }  
+  .slide {
+   
+    background-color: lavender; /* Example background color for each slide */
+    border: 1px solid white; /* Example border for each slide */
+    padding: 65px 50px; /* Example padding for each slide */
+    text-align: center; /* Align content in the center */
+    height: 300px;
+   
+    
+    
+  }
+
+.carousel
+{
+  font-size: 20px;
+  font-style: italic;
+  overflow: hidden;
+ 
+}
+.carousel span
+{
+  color: yellow;
+  
+}
+.carousel p
+{
+  margin-top: 10px;
+ color: #941975;
+ padding-bottom: 10px;
+}

@@ -1,0 +1,83 @@
+/* Styles for the invoice container */
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+
+@media screen and (max-width: 768px) {
+  .invoice {
+      justify-content: center;
+  }
+}  
+
+
+.invoice {
+ 
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f9f9f9;
+    
+  }
+ 
+
+  
+  /* Styles for header section */
+  .header {
+    text-align: center;
+    margin-bottom: 50px;
+ 
+   
+  }
+  .header img {
+    float: right;
+  }
+  .header h1 {
+    color: rgb(104,9,80);
+    text-align: center;
+    /* margin-top: 3%; */
+    margin-left: 30px;
+  }
+  
+  /* Styles for invoice details */
+  .invoice-details {
+    text-align: left;
+    margin-top: 10px;
+    
+  }
+  
+  /* Styles for item list table */
+  table {
+    width: 100%;
+   border-collapse: collapse;
+    margin-bottom: 20px;
+    /* margin-right: 20px; */
+  }
+  
+  table th {
+    color: rgb(104,9,80);
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  /* Styles for total section */
+
+  .total p{
+    color: rgb(104,9,80);
+  }
+  .total {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    margin-top: 10px;
+   
+  }
+  
+  /* Styles for footer section */
+  .footer {
+    margin-top: 20px;
+    
+  }
