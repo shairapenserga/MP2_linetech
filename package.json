@@ -1,5 +1,5 @@
 {
-  "homepage": "http://shairapenserga.github.io/MP2_linetech",
+  "homepage": "https://shairapenserga.github.io/MP2_linetech",
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm runbuild",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
