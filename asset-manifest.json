@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/MP2_linetech/static/css/main.e664cb9c.css",
+    "main.js": "/MP2_linetech/static/js/main.02c87479.js",
+    "static/js/787.38f16daf.chunk.js": "/MP2_linetech/static/js/787.38f16daf.chunk.js",
+    "static/media/banner1.png": "/MP2_linetech/static/media/banner1.827fd4638589ca443455.png",
+    "static/media/4.png": "/MP2_linetech/static/media/4.55eee8ae38f19525d7cf.png",
+    "static/media/store.png": "/MP2_linetech/static/media/store.ceaf9d23bf596e23ba36.png",
+    "static/media/contact1.png": "/MP2_linetech/static/media/contact1.3f1a69fd41092860d3ec.png",
+    "static/media/topbanner.png": "/MP2_linetech/static/media/topbanner.76a2babf2538c4982a26.png",
+    "static/media/display.png": "/MP2_linetech/static/media/display.697b8155b8b43c8b992e.png",
+    "static/media/phone1.png": "/MP2_linetech/static/media/phone1.5215bd9c3be8d63d02ae.png",
+    "static/media/speaker2.png": "/MP2_linetech/static/media/speaker2.df890b8b223174b8895d.png",
+    "static/media/phone4.png": "/MP2_linetech/static/media/phone4.5d9c930c5896c1abdf76.png",
+    "static/media/phone2.png": "/MP2_linetech/static/media/phone2.621dc898f005d9f3152b.png",
+    "static/media/speaker1.png": "/MP2_linetech/static/media/speaker1.a010f9dc36215afb94ef.png",
+    "static/media/buds1.png": "/MP2_linetech/static/media/buds1.cb6a3fecd6ed29a6a07a.png",
+    "static/media/battery.png": "/MP2_linetech/static/media/battery.a693f19938f189b50869.png",
+    "static/media/headphone3.png": "/MP2_linetech/static/media/headphone3.cc0cba5416151b208a66.png",
+    "static/media/headphone2.png": "/MP2_linetech/static/media/headphone2.729df3e0913443fbdbef.png",
+    "static/media/phone5.png": "/MP2_linetech/static/media/phone5.4af1717400541cdd36da.png",
+    "static/media/laptop3.png": "/MP2_linetech/static/media/laptop3.b907ebd2d9d73fe78d9e.png",
+    "static/media/tab1.png": "/MP2_linetech/static/media/tab1.f822d097ede530e7ceb8.png",
+    "static/media/tab3.png": "/MP2_linetech/static/media/tab3.9dce772f988c25442ec0.png",
+    "static/media/avatar.png": "/MP2_linetech/static/media/avatar.14a4472e03be5173597c.png",
+    "static/media/logoo.png": "/MP2_linetech/static/media/logoo.2c8c92db31d2af9c72bc.png",
+    "index.html": "/MP2_linetech/index.html",
+    "main.e664cb9c.css.map": "/MP2_linetech/static/css/main.e664cb9c.css.map",
+    "main.02c87479.js.map": "/MP2_linetech/static/js/main.02c87479.js.map",
+    "787.38f16daf.chunk.js.map": "/MP2_linetech/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e664cb9c.css",
+    "static/js/main.02c87479.js"
+  ]
+}
