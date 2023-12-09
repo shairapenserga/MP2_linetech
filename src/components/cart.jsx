@@ -135,7 +135,7 @@ const Cart = ({cart, setCart}) => {
               <div className='Total'>
                 <h4>Sub Total: ${total}</h4>
               </div>
-              <button><Link to='/RegisterAndLogin' className="link">checkout</Link></button>
+              <button><Link to='/checkout' className="link">checkout</Link></button>
               </>
             }
           </div>
