@@ -11,7 +11,7 @@ import Contact from './contact'
 // import Signup from './signup';
 // import Favorites from './favorites'
 import RegisterAndLogin from './RegisterAndLogin'
-import HomeScreen from './HomeScreen';
+// import HomeScreen from './HomeScreen';
 import CheckoutForm from './checkoutform';
 import Invoice from './invoice';
  import Wishlist from './wishlist';
@@ -38,7 +38,7 @@ return (
         <Route path='/contact' element= {<Contact/>}/>
         <Route path='/RegisterAndLogin' element= {<RegisterAndLogin/>}/>
         {/* <Route path='/signup' element= {<Signup/>}/> */}
-        <Route path='/HomeScreen' element= {<HomeScreen/>}/>
+        {/* <Route path='/HomeScreen' element= {<HomeScreen/>}/> */}
         <Route path='/checkout' element= {<CheckoutForm/>}/>
         <Route path='/invoice' element= {<Invoice/>}/>
         <Route path='/wishlist' element={<Wishlist wishlist={wishlist} setWishlist={setWishlist} addtocart={addtocart}/>}></Route>

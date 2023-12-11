@@ -98,7 +98,7 @@ letter-spacing: 1px;
 }
 .caption .link {
     padding: 10px 30px;
-    background: pink;
+    background: #ffc0cb;
     color: #cd1e76;
     text-decoration: none;
     border-radius: 5px;
@@ -310,7 +310,7 @@ flex-wrap: wrap;
     border: none;
     background: none;
     outline: none;
-    background: pink;
+    background: #ffc0cb;
     color: #941975;
     text-transform: capitalize;
     border-radius: 5px;
